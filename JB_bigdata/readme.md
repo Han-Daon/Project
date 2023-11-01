@@ -21,3 +21,5 @@
 
 - Qgis
 
+### 추가
+https://www.notion.so/2a3bb8b1b85b4c9280596cff84fe2d5c
